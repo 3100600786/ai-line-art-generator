@@ -66,7 +66,7 @@ The **SPAI AI Line Art Extractor** is a high-performance web tool that automates
 1.  **上传图片**: 点击上传按钮，选择需要处理的照片（支持 JPG/PNG/WebP，最大 24MB）
 2.  **设置参数**: 选择线条精细度（精细、标准、粗犷）
 3.  **输入描述**: 填写风格要求，例如“提取极简纯净线条”
-4.  **下载线稿**: 预览满意后，点击下载高清透明 PNG 线稿文件。
+4.  **下载线稿**: 预览满意后，点击下载高清透明 PNG 线稿文件
 
 ### ⚙️ 适配的 AI 模型引擎
 *   **Nano Banana Pro**: 业内最火模型，适合通用线条提取。
