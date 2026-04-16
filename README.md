@@ -15,7 +15,7 @@
 
 ## 🇬🇧 English Introduction
 
-The **SPAI AI Line Art Extractor** is a high-performance web tool that automates the process of extracting clean outlines from any image. Whether you're an illustrator needing a base sketch or a designer creating vector-style assets, our AI analyzes image structures and contours to generate high-resolution sketches in seconds
+The **SPAI AI Line Art Extractor** is a high-performance web tool that automates the process of extracting clean outlines from any image. Whether you're an illustrator needing a base sketch or a designer creating vector-style assets, our AI analyzes image structures and contours to generate high-resolution sketches in seconds 。
 
 ### Key Features
 *   **✨ One-Click Sketching:** Convert portraits, animals, and landscapes into black & white outlines instantly
