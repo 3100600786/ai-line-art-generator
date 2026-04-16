@@ -50,7 +50,7 @@ The **SPAI AI Line Art Extractor** is a high-performance web tool that automates
 | <img src="https://img.sipingseo.com/file/extract-line-art/8xZIKnsi.webp" width="300"> | <img src="https://img.sipingseo.com/file/extract-line-art/SSeRRFVc.webp" width="300"> |
 
 #### 2. 宠物细节线稿 (Pet Details)
-智能识别宠物毛发走向与动态特征，生成适合绘本创作的线条。
+智能识别宠物毛发走向与动态特征，生成适合绘本创作的线条
 | 处理前 (Before) | 处理后 (After) |
 | :---: | :---: |
 | <img src="https://img.sipingseo.com/file/extract-line-art/oNETjrip.webp" width="300"> | <img src="https://img.sipingseo.com/file/extract-line-art/WBn6sfeb.webp" width="300"> |
