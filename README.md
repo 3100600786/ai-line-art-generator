@@ -78,7 +78,7 @@ The **SPAI AI Line Art Extractor** is a high-performance web tool that automates
 
 <details>
 <summary><strong>在线提取线稿是免费的吗？</strong></summary>
-<p>是的。我们提供免费的在线提取服务，无需下载客户端，用户可直接通过网页端上传图片完成转换。</p>
+<p>是的。我们提供免费的在线提取服务，无需下载客户端，用户可直接通过网页端上传图片完成转换</p>
 </details>
 
 <details>
