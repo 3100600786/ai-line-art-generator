@@ -83,7 +83,7 @@ The **SPAI AI Line Art Extractor** is a high-performance web tool that automates
 
 <details>
 <summary><strong>生成的线稿清晰度如何？</strong></summary>
-<p>AI 采用边缘增强技术，输出的线稿分辨率高且线条流畅，无断裂与杂点，最高支持 4K 级清晰度导出。</p>
+<p>AI 采用边缘增强技术，输出的线稿分辨率高且线条流畅，无断裂与杂点，最高支持 4K 级清晰度导出</p>
 </details>
 
 <details>
