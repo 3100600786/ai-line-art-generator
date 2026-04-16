@@ -69,7 +69,7 @@ The **SPAI AI Line Art Extractor** is a high-performance web tool that automates
 4.  **下载线稿**: 预览满意后，点击下载高清透明 PNG 线稿文件
 
 ### ⚙️ 适配的 AI 模型引擎
-*   **Nano Banana Pro**: 业内最火模型，适合通用线条提取。
+*   **Nano Banana Pro**: 业内最火模型，适合通用线条提取
 *   **Seedream 5 (豆包)**: 针对细节纹理进行了深度优化。
 *   **Flux-Kontext**: 提供专业级的手绘线条质感。
 *   **Z-Image-Turbo**: 极致处理速度，秒级出图。
