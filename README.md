@@ -56,7 +56,7 @@ The **SPAI AI Line Art Extractor** is a high-performance web tool that automates
 | <img src="https://img.sipingseo.com/file/extract-line-art/oNETjrip.webp" width="300"> | <img src="https://img.sipingseo.com/file/extract-line-art/WBn6sfeb.webp" width="300"> |
 
 #### 3. 植物花卉精细线稿 (Floral & Botanical)
-高精度还原花瓣脉络与叶片纹理，适合工笔画临摹。
+高精度还原花瓣脉络与叶片纹理，适合工笔画临摹
 | 处理前 (Before) | 处理后 (After) |
 | :---: | :---: |
 | <img src="https://img.sipingseo.com/file/extract-line-art/s1TOWeSl.webp" width="300"> | <img src="https://img.sipingseo.com/file/extract-line-art/oFsnGfFw.webp" width="300"> |
