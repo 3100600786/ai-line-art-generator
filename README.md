@@ -22,7 +22,7 @@ The **SPAI AI Line Art Extractor** is a high-performance web tool that automates
 *   **🤖 Smart Edge Detection:** AI-driven algorithm identifies precise object boundaries and internal structures
 *   **🖼️ Transparent PNG Export:** Perfect for layering in Photoshop, SAI, or Procreate
 *   **⚡ Rapid GPU Rendering:** Generates HD line art in under 10 seconds
-*   **💰 100% Free:** No installation or registration required. Fully accessible via any web browser.
+*   **💰 100% Free:** No installation or registration required. Fully accessible via any web browser
 
 **[➡️ Convert Your Photos to Line Art for Free](https://www.sipingseo.com/zh/line-art-extract/extract-line-art)**
 
