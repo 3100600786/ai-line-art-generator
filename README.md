@@ -88,7 +88,7 @@ The **SPAI AI Line Art Extractor** is a high-performance web tool that automates
 
 <details>
 <summary><strong>我上传的照片隐私安全吗？</strong></summary>
-<p>非常安全。我们采用端到端加密传输，上传图片及生成的线稿仅用于实时处理，完成后会自动销毁，绝不保留原始数据。</p>
+<p>非常安全。我们采用端到端加密传输，上传图片及生成的线稿仅用于实时处理，完成后会自动销毁，绝不保留原始数据</p>
 </details>
 
 ---
