@@ -44,7 +44,7 @@ The **SPAI AI Line Art Extractor** is a high-performance web tool that automates
 我们的 AI 模型可以处理多种复杂的图像题材，并提供不同精度的输出：
 
 #### 1. 人像轮廓提取 (Portrait Outline)
-精准保留五官比例与发型轮廓，线条简洁优美，适合插画底稿。
+精准保留五官比例与发型轮廓，线条简洁优美，适合插画底稿
 | 处理前 (Before) | 处理后 (After) |
 | :---: | :---: |
 | <img src="https://img.sipingseo.com/file/extract-line-art/8xZIKnsi.webp" width="300"> | <img src="https://img.sipingseo.com/file/extract-line-art/SSeRRFVc.webp" width="300"> |
