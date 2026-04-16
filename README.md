@@ -37,7 +37,7 @@ The **SPAI AI Line Art Extractor** is a high-performance web tool that automates
 | 🪄 | **照片转线稿，艺术一键达** | AI 智能识别图像边缘，精准提取物体轮廓线条，普通照片瞬间变艺术底稿 |
 | ✂️ | **背景透明化，叠加更自由** | 自动分离主体与背景，生成 PNG 透明底线稿，增强设计灵活性 |
 | 💎 | **精细线条，细节无遗漏** | 专为复杂图案优化，还原物体纹理细节，完美满足插画临摹与印刷需求 |
-| 📦 | **多端适用，格式随心换** | 支持一键导出 PNG、SVG 等通用格式，无缝导入 PS、AI 或 Procreate。 |
+| 📦 | **多端适用，格式随心换** | 支持一键导出 PNG、SVG 等通用格式，无缝导入 PS、AI 或 Procreate |
 
 ### 🎨 提取效果示例 (Extraction Examples)
 
